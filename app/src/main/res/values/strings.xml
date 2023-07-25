@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Patissons</string>
+    <string-array name="appreciation">
+        <item> </item>
+        <item>nul</item>
+        <item>ça va</item>
+        <item> bien</item>
+        <item>trés bien</item>
+
+    </string-array>
+</resources>
